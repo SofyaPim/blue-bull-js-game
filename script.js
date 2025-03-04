@@ -475,7 +475,7 @@ window.addEventListener("load", function () {
       this.particles = [];
       this.gameObjects = [];
       this.score = 0;
-      this.winnigScore = 5;
+      this.winnigScore = 10;
       this.gameOver = false;
       this.lostHatchlings = 0;
       this.mouse = {
